@@ -1,5 +1,7 @@
 # Text Analyzer - Azure Functions Lab
 ## Akash Nadackanal Vinod
+### Demo.md
+https://github.com/nada0038/CST8917/blob/main/DEMO.md
 
 A simple serverless API that analyzes text and stores results in Azure Table Storage.
 
