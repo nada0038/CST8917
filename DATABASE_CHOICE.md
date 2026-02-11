@@ -11,7 +11,7 @@ I chose Azure Table Storage for this project for the following reasons:
 
 2. **Simple NoSQL Storage**: The text analysis results are simple key-value pairs with JSON data. Table Storage's PartitionKey/RowKey model is sufficient for storing and retrieving these records.
 
-3. **Easy Integration**: Azure Functions has excellent SDK support for Table Storage through the `azure-data-tables` library, making implementation straightforward.
+3. **Easy Integration**: Azure Functions has excellent SDK support for Table Storage through the azure-data-tables library, making implementation straightforward.
 
 4. **No Complex Queries Needed**: The application only needs to store analyses and retrieve recent history - no complex queries or indexing required.
 
