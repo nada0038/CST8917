@@ -1,9 +1,9 @@
 # Lab 1 Demo Video
 
 ## YouTube Link
-[Add your YouTube video link here after recording]
-
----
+```
+https://youtu.be/M8rOkLtkPag
+```
 
 ## Endpoints
 
